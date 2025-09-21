@@ -1,0 +1,7 @@
+Data/orders.csv
+Data/order_products_prior.csv
+echo Data/aisles.csv
+echo Data/departments.csv
+Data/departments.csv
+Data/departments.csv
+Data/*.csv
