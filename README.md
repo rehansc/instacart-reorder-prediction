@@ -24,16 +24,17 @@ It demonstrates end-to-end **data science skills**: data wrangling, EDA, feature
 
 ---
 
-## 📂 Project Structure  
-
+## 📂 Project Structure
+```text
 instacart-reorder-prediction/
-├── phase1_fundamentals/ # EDA & feature engineering
-├── phase2_ml_models/ # Classification, clustering, forecasting
-├── phase3_advanced/ # A/B testing, CLV, recommendations
-├── scripts/ # Reusable Python scripts
-├── requirements.txt # Minimal dependencies
-├── requirements-full.txt # Full environment snapshot
-└── README.md # Project overview (this file)
+├── phase1_fundamentals/      # EDA & feature engineering
+├── phase2_ml_models/         # Classification, clustering, forecasting
+├── phase3_advanced/          # A/B testing, CLV, recommendations
+├── scripts/                  # Reusable Python scripts
+├── requirements.txt          # Minimal dependencies
+├── requirements-full.txt     # Full environment snapshot
+└── README.md                 # Project overview (this file)
+
 
 
 ---
