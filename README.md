@@ -34,8 +34,7 @@ instacart-reorder-prediction/
 ├── requirements.txt          # Minimal dependencies
 ├── requirements-full.txt     # Full environment snapshot
 └── README.md                 # Project overview (this file)
-
-
+```
 
 ---
 
