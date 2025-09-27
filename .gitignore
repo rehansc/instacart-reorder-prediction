@@ -1,7 +1,23 @@
-Data/orders.csv
-Data/order_products_prior.csv
-echo Data/aisles.csv
-echo Data/departments.csv
-Data/departments.csv
-Data/departments.csv
-Data/*.csv
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and models (too large for GitHub)
+data/
+models/
+results/
+
+# OS / editor files
+.DS_Store
+*.swp
+*.swo
