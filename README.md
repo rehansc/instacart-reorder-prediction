@@ -26,7 +26,6 @@ It demonstrates end-to-end **data science skills**: data wrangling, EDA, feature
 
 ## 📂 Project Structure  
 
-
 instacart-reorder-prediction/
 ├── phase1_fundamentals/ # EDA & feature engineering
 ├── phase2_ml_models/ # Classification, clustering, forecasting
