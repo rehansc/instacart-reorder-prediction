@@ -21,3 +21,4 @@ results/
 .DS_Store
 *.swp
 *.swo
+.venv/
