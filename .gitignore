@@ -1,24 +1,23 @@
-# Virtual environment
+# ---- Python virtual environments ----
 .venv/
-env/
 venv/
 
-# Python cache
+# ---- Python cache / compiled files ----
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Jupyter
+# ---- Jupyter ----
 .ipynb_checkpoints/
 
-# Data and models (too large for GitHub)
+# ---- Data ----
 Data/
-models/
-results/
 
-# OS / editor files
+# ---- Logs & temp files ----
+*.log
+*.tmp
+
+# ---- OS-specific files ----
 .DS_Store
-*.swp
-*.swo
-.venv/
+Thumbs.db
