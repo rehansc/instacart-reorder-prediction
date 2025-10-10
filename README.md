@@ -38,10 +38,27 @@ instacart-reorder-prediction/
 
 ---
 
-## 📈 Key Results  
-- **Best F1 Score**: *fill in once you finalize*  
-- **Recall**: *fill in*  
-- **Top Predictors**: product reorder history, user order frequency, cart position  
+## 📈 Key Results (Phase 1: EDA)
+
+### 🧺 Customer Ordering Patterns
+- Customers typically place **10 orders** (median), with an average of ~**16 orders** each.
+- A small group of **power users** place up to **100 orders** — highly engaged repeat shoppers.
+
+### 🛒 Basket Composition
+- The average basket contains **10 products**, with most customers buying **5–14 items** per order.
+- The largest basket observed had **145 products** — bulk shoppers or large households.
+
+### 🍌 Product Insights
+- Most reordered product: **Banana**, followed by **Organic Banana**.
+- Indicates consistent demand for staple grocery items.
+
+### 🔁 Reordering Behavior
+- Overall **reorder ratio = 59%**, meaning more than half of purchased products are repeat buys.
+- This highlights **strong customer loyalty and habitual purchasing**.
+
+
+---
+
 
 ---
 
