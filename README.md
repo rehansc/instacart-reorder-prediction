@@ -56,9 +56,24 @@ instacart-reorder-prediction/
 - Overall **reorder ratio = 59%**, meaning more than half of purchased products are repeat buys.
 - This highlights **strong customer loyalty and habitual purchasing**.
 
+🧩 *Insight:* Most customers make fewer than 20 orders, suggesting opportunities for loyalty programs targeting mid-frequency shoppers.
+
+
 
 ---
+### 🔁 Reordering Behavior
 
-
+- Overall **reorder ratio = 59%**, meaning more than half of all purchased products are repeat buys.
+- Customers typically reorder items within **7–10 days** of their previous purchase.
+- Correlation analysis revealed only **weak linear relationships** (maximum |r| ≈ 0.36), suggesting that reordering depends on **complex, non-linear interactions** among timing, product type, and customer habits.
 ---
+
+# 🏁 EDA Summary
+
+- Customers typically reorder items within **7–10 days** of their previous purchase.
+- Reorders are highest on **Sundays/Mondays** at **7 AM**.  
+- Correlations between numeric variables are weak, confirming **non-linear relationships** — ideal for machine learning.  
+- These behavioral insights will guide **feature engineering and model design** in the next phase.
+
+Next step → Build a baseline model to predict which products are likely to be reordered.
 
